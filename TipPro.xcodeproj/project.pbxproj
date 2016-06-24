@@ -16,7 +16,7 @@
 
 /* Begin PBXFileReference section */
 		0F00976D1D1B4B8600C1F252 /* TipPro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TipPro.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0F0097701D1B4B8600C1F252 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0F0097701D1B4B8600C1F252 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = TipPro/AppDelegate.swift; sourceTree = "<group>"; };
 		0F0097721D1B4B8600C1F252 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0F0097751D1B4B8600C1F252 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0F0097771D1B4B8600C1F252 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -38,6 +38,7 @@
 		0F0097641D1B4B8600C1F252 = {
 			isa = PBXGroup;
 			children = (
+				0F0097701D1B4B8600C1F252 /* AppDelegate.swift */,
 				0F00976F1D1B4B8600C1F252 /* TipPro */,
 				0F00976E1D1B4B8600C1F252 /* Products */,
 			);
@@ -54,7 +55,6 @@
 		0F00976F1D1B4B8600C1F252 /* TipPro */ = {
 			isa = PBXGroup;
 			children = (
-				0F0097701D1B4B8600C1F252 /* AppDelegate.swift */,
 				0F0097721D1B4B8600C1F252 /* ViewController.swift */,
 				0F0097741D1B4B8600C1F252 /* Main.storyboard */,
 				0F0097771D1B4B8600C1F252 /* Assets.xcassets */,
